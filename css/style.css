@@ -50,10 +50,6 @@ h3 {
   background-color: black;
 }
 
-.slide-card:hover .slide-picture {
-  opacity: 1;
-}
-
 .slide-picture {
   max-width: 600px;
   display: block;
